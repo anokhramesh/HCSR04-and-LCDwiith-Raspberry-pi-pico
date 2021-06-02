@@ -1,3 +1,7 @@
+#reuired to install the following libraries-
+#1-lcd_api.py and 
+#2-pico_i2c_lcd.py
+
 from machine import I2C,Pin
 from lcd_api import LcdApi
 from pico_i2c_lcd import I2cLcd
